@@ -9,6 +9,7 @@ Your Link Here
 # Tugas membuat Package and Modul
 # Tugas yang diberikan memiliki soal sebagai berikut
 # soal
+![img](gambar/soal.jpeg)
 
 # Penjelasan
 # Daftar_Nilai
@@ -89,14 +90,18 @@ deklarasikan fungsi def lihat_data(): Kita menggunakan kondisi percabangan if, a
 lalu cetak print()
 Maka OUTPUT yg didaptkan adalah
 # HURUF T
+![img](gambar/T.jpeg)
 
 # HURUF C
+![img](gambar/C.jpeg)
 
 # HURUF U
-
+![img](gambar/U.jpeg)
 
 # HURUF L
+![img](gambar/L.jpeg)
 
 # HURUF H
+![img](gambar/H.jpeg)
 
 Sekian penjelasan yang saya dampaikan jika masih ada kekurangan mohon dimaafkan dan teima kasih.
